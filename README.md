@@ -1,7 +1,7 @@
 - 👋 Hi, I’m fosi, a beginner developer. :)
 - 👀 I’m interested in a lot of things, including IA, gaming and other things...
 - 🌱 I’m currently learning JavaScript and Python, and then I'll go for Java and C#
-- 📫 Contact me via mail: lixanderspersonalaccoiunt@gmail.com
+- 📫 Contact me via mail: onlyfosi.dev@gmail.com
 
 <!---
 fosiXD/fosiXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
