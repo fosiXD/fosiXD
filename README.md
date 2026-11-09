@@ -2,7 +2,7 @@
 
 A **Full-Stack Developer** who learns by building, fuelled by music, games and way too many side projects.
 
-<img src="me.jpg" alt="Me" align="left" width="505">
+<img src="me.jpg" alt="Me" align="left" width="486">
 
 ```js
 const fosi = new AwesomePerson({
