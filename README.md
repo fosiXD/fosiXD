@@ -43,7 +43,6 @@ const fosi = new AwesomePerson({
 <img src="https://raw.githubusercontent.com/devicons/devicon/v2.18.0/icons/react/react-original.svg" alt="React" title="React" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/v2.18.0/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/v2.18.0/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="48" height="48" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.18.0/icons/proxmox/proxmox-original.svg" alt="Proxmox" title="Proxmox" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/v2.18.0/icons/discordjs/discordjs-original.svg" alt="DiscordJS" title="DiscordJS" width="48" height="48" />
 </p>
 <!-- SKILLS:END -->
