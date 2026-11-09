@@ -1,6 +1,8 @@
-# Hey, I'm Fosi! 🖐️
+# Hey there, I'm Fosi! 🖐️
 
-<img src="me.jpg" alt="Me" align="left">
+A **Full-Stack Developer** who learns by building, fuelled by music, games and way too many side projects.
+
+<img src="me.jpg" alt="Me" align="left" width="505">
 
 ```js
 const fosi = new AwesomePerson({
@@ -28,5 +30,7 @@ const fosi = new AwesomePerson({
   ]
 })
 ```
+## Skills
+
 <!-- SKILLS:START -->
 <!-- SKILLS:END -->
