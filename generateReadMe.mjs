@@ -2,7 +2,7 @@ import { readFileSync, writeFileSync } from "node:fs";
 
 const skillSet = [
   "JavaScript", "TypeScript", "NodeJS", "Python", "Java", "Kotlin",
-  "Csharp", "React", "MongoDB", "Linux", "Proxmox", "DiscordJS",
+  "Csharp", "React", "MongoDB", "Linux", "DiscordJS",
 ];
 
 const icons = [];
