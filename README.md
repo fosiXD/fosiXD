@@ -29,6 +29,7 @@ const fosi = new AwesomePerson({
   ]
 })
 ```
+
 ## Skills
 
 <!-- SKILLS:START -->
