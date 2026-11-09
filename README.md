@@ -19,7 +19,6 @@ const fosi = new AwesomePerson({
     "React",
     "MongoDB",
     "Linux",
-    "Proxmox",
     "DiscordJS"
   ],
   discordId: "852587898582204463",
